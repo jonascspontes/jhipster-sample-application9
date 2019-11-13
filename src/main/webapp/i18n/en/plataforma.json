@@ -1,0 +1,23 @@
+{
+  "jhipsterSampleApplication9App": {
+    "plataforma": {
+      "home": {
+        "title": "Plataformas",
+        "createLabel": "Create a new Plataforma",
+        "createOrEditLabel": "Create or edit a Plataforma",
+        "notFound": "No Plataformas found"
+      },
+      "created": "A new Plataforma is created with identifier {{ param }}",
+      "updated": "A Plataforma is updated with identifier {{ param }}",
+      "deleted": "A Plataforma is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Plataforma {{ id }}?"
+      },
+      "detail": {
+        "title": "Plataforma"
+      },
+      "nome": "Nome",
+      "game": "Game"
+    }
+  }
+}
